@@ -1,4 +1,5 @@
 import random
+
 enter_name = input("hello my fellow friend.what's your name? ") #entering name
 print("hello " + enter_name + ".I am guessing a random number from 1 to 10 can you guess it? you have 5 attempts ")#greeting the player.
 attempt = 1
